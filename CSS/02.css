@@ -1,0 +1,18 @@
+html{
+    font-size: 10px;
+}
+
+ol, ol li{
+    font-size: 1.2rem;
+    /*  10*1.2= 12px */
+}
+ul, ul li{
+    font-size: 1.2em;
+}
+.vh {
+    font-size:5vh;
+}
+/* 화면에서 차지하는 비율 가로 vh 세로 vw */
+.vw {
+    font-size:5vw;
+}

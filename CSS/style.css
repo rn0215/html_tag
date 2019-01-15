@@ -1,0 +1,30 @@
+*{
+    color: red;
+
+}
+h1{
+    color: rosybrown;
+}
+/* 클래스는 . */
+.blue{
+    color: blue;
+}
+/* ID는 # */
+#green{
+    color: green;
+}
+.pink{
+    color: pink;
+}
+.bold{
+    font-weight: bold;
+}
+h5{
+    width: 50%;
+}
+div{
+    widows: 50%;
+}
+h4 {
+    color:rgb(255, 51, 102)
+}
